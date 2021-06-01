@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Davpet2906
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning node.js, python
+- 💞️ I’m looking to collaborate on mySql PHP
+- 📫 How to reach me, email me every time
